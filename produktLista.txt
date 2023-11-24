@@ -1,0 +1,7 @@
+ProduktID,Produktnamn,Pris,Prisenhet
+100,Potatis,15,90 kr,Per Kilogram
+101,Tomater,29,90 kr,Per Kilogram
+102,Kalkonfile,49,90 kr,Per Kilogram
+300,Majskolv,8,50 kr,Styck
+301,Selleri,11,90 kr,Styck
+302,Avokado,24,90 kr,Styck
