@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Content Include="bin\Debug\net6.0\produktLista.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 
