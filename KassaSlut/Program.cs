@@ -5,7 +5,7 @@ using System.Linq;
 
 class Kassa
 {
-    private const string ProdukterFilvag = @"produktLista.txt";
+    private const string ProdukterFilvag = "produktLista.txt";
     private const string KvittonFilvag = "Kvittenser/";
     private static int kvittoNummer = 0;
 
